@@ -1,0 +1,32 @@
+_repo: From-the-four-winds_75539
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: https://en.wikipedia.org/wiki/John_Galsworthy
+description: ''
+gutenberg_issued: '2025-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75539'
+language: en
+pgterms:marc904: https://archive.org/details/fromfourwinds00gals
+pgterms:marc905: 20210430025229sinjohn
+pgterms:marc906: '1897'
+pgterms:marc907: gb
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bT. Fisher Unwin, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: From the four winds
+url: http://www.gutenberg.org/ebooks/75539
